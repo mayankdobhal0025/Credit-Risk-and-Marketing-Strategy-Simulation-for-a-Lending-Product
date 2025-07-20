@@ -34,7 +34,7 @@ st.write("**Features:**", df.columns.tolist())
 st.header("Model Performance")
 st.write("**Final Model Accuracy:** 93.25%")
 st.write("**Final Model ROC-AUC:** 0.98")
-st.image("assets/confusion_matrix.png", caption="Confusion Matrix")
+st.image("assets/Confusion_matrix.png", caption="Confusion Matrix")
 st.image("assets/roc_curve.png", caption="ROC Curve")
 
 # Section 3: Business Segmentation Analysis
